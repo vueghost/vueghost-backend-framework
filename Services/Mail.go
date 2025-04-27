@@ -2,10 +2,10 @@ package Services
 
 import "gopkg.in/gomail.v2"
 
-const MailSmtpHost string = "email-smtp.us-west-2.amazonaws.com"
+const MailSmtpHost string = "email-smtp.us-west-2.8987888.com"
 const MailSmtpPort int = 587
-const MailSmtpUsername string = "AKIAJ6FZ2I5A2EETV6ZQ"
-const MailSmtpPassword string = "Ajau4ADPXeACG9iZz+SYFwJBss5/9Ny/y1YvPSvVEFLh"
+const MailSmtpUsername string = ""
+const MailSmtpPassword string = "+"
 
 type (
 	//MailSmtpClient Permits email to be sent using Mail, Sendmail, or SMTP.
