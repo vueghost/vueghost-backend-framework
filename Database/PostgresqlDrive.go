@@ -21,7 +21,7 @@ const (
 	rdsEndPoint             string = "vueghost-database.cluster-cqviybilwaj4.us-east-2.rds.amazonaws.com"
 	rdsPort                 int    = 5432
 	rdsMasterUsername       string = "vueghost__db"
-	rdsPassword             string = "HWry6fgvZXAu52zvAJwQ"
+	rdsPassword             string = "rdsPASSWORD"
 	rdsDB                   string = "postgres"
 	rdsSchema               string = "public"
 	ErrorCodeDuplication    int    = 502
