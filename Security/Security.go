@@ -1,15 +1,3 @@
 package Security
 
-const SignKey string = "MIICXQIBAAKBgQC0Qaws5X9TcOrwzDoGY2MCL4EswtmDASKjrebMJkCGA+EII7vM" +
-	"wZwiXRBSIQgh/67fvwgIXOP/wI5+fDc51gZALPtNitpKuAZg68kIIKTEEaZado+D" +
-	"XKPGjFRiWokPbB3eA/PqBBfbij8ZydOD9ivzkdeu8qaYk3U7qxczcxOrzwIDAQAB" +
-	"AoGAf/nURLfXUyVrF/TXCWwMgiO6AU6BYRowPqcbojtSOhOM89ty3Odkc51BFh4v" +
-	"iPvfaylUiaNxmEVcpX6JMv25xyoXLgSY7+iu0E530InMv/ECWlICWf6geukiM9eY" +
-	"Q36oGdRUgz/iYoNZR01kgr1YGKrbK3x7gS6tfXSVbe2P4zkCQQDrf5VE30mVWPt4" +
-	"VGvc14LQvtXCsM4snHfa+h4dht4pcA/XtaA7yWvuYEQORGPCnZ9fIgtNibFF+wtp" +
-	"dgBpRaStAkEAw/LyRUVfFrke+ZvYQTKhMTjig6iAqSEWKCwHQYDJQ10HVIVrb4dt" +
-	"rdzqqIo2OfpG6UEDO2/ljroG3s3r/0ql6wJAGrwRJhBzOhEv+ykaVafhofEIM2H/" +
-	"BfF9ac6bPJ7i+bFPGx3zYtYq+pTTJQt+h8l9Hj+vKM5I4bjuQrqysUDGwQJBALnX" +
-	"2LmkUsxNZThd+9vSNhlmF0fBb8146PfO0k7o43n1aHdcVwofSwHkDdctxsJ0Qf8G" +
-	"PxeHSBR3EP8OFO87EGMCQQCXnh1N2LEZ5rDb1XADKL8SNgoGLqZDjBXRvZ7X6rj5" +
-	"EjGXD20BB1umJPaHv4a6xre0dWh8unLPYpIgSSfgJfc5"
+const SignKey string = ""
