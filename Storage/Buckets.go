@@ -36,7 +36,7 @@ func (b *Buckets) createSession() (*session.Session, bool) {
 		return b.openSession, true
 	}
 
-	
+	// bucketCredentials := credentials.NewStaticCredentials("", "", "")
 	s, err := session.NewSession(&aws.Config{
 		Region:      aws.String("us-east-2"),
 		Credentials: bucketCredentials,
